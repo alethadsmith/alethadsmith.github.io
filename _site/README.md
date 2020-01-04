@@ -1,1 +1,0 @@
-# alethadsmith.github.io
