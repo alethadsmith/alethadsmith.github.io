@@ -1,3 +1,38 @@
-div {
-  background-color: blue
+b {
+  font-size: 2em;
+  font-family: 'Nanum+Myeongjo';
+  /* text-shadow: 1px 1px #ffbd8e; */
+  color: #800020;
+  /* height: 200px; */
+  /* -webkit-text-stroke: 1px #cc5500; */
+}
+
+.bg-burgundy {
+  background-color: #800020
+}
+
+.bg-peach {
+  background-color: #ffede0
+}
+
+.bg-sage {
+  background-color: #cfdbc5
+}
+
+.bg-teal {
+  background-color: #005252
+}
+
+.rotateimg90 {
+  -webkit-transform: translateY(-100%) rotate(90deg); /* Safari */
+  -moz-transform: translateY(-100%) rotate(90deg); /* Firefox 3.6 Firefox 4 */
+  /*-moz-transform-origin: right top; */
+  -ms-transform: translateY(-100%) rotate(90deg); /* IE9 */
+  -o-transform: translateY(-100%) rotate(90deg); /* Opera */
+  transform: translateY(-100%) rotate(90deg); /* W3C */
+  -webkit-transform-origin: left bottom;
+  -moz-transform-origin: left bottom;
+  -ms-transform-origin: left bottom;
+  -o-transform-origin: left bottom;
+  transform-origin: left bottom;
 }

@@ -1,9 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 @import 'https://fonts.googleapis.com/css?family=Bad Script';
+@import 'https://fonts.google.com/specimen/Nanum+Myeongjo?selection.family=Nanum+Myeongjo';
 @import 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css';
 
 body {
-  margin: 80px auto;
-  width: 70%;
-  background-color: #d8e4e4;
+  background-image: url('/assets/images/Sage_Leaves.jpg');
+  background-size: 25% 45%;
 }
