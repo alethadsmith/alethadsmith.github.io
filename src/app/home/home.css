@@ -1,26 +1,13 @@
-b {
+p {
   font-size: 2em;
   font-family: 'Nanum+Myeongjo';
-  /* text-shadow: 1px 1px #ffbd8e; */
+
   color: #800020;
-  /* height: 200px; */
   /* -webkit-text-stroke: 1px #cc5500; */
 }
 
-.bg-burgundy {
-  background-color: #800020
-}
-
-.bg-peach {
-  background-color: #ffede0
-}
-
-.bg-sage {
-  background-color: #cfdbc5
-}
-
-.bg-teal {
-  background-color: #005252
+b {
+  text-shadow: 1px 1px #ffbd8e;
 }
 
 .rotateimg90 {

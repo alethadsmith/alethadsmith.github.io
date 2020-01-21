@@ -7,3 +7,19 @@ body {
   background-image: url('/assets/images/Sage_Leaves.jpg');
   background-size: 25% 45%;
 }
+
+.bg-burgundy {
+  background-color: #800020
+}
+
+.bg-peach {
+  background-color: #ffede0
+}
+
+.bg-sage {
+  background-color: #cfdbc5
+}
+
+.bg-teal {
+  background-color: #005252
+}
