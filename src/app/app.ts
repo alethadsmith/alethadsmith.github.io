@@ -4,6 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 // Import Components Here
 import { HomeComponent } from './home/home';
+import { GuideComponent } from './guide/guide';
 import { DetailsComponent } from './details/details';
 
 @Component({
@@ -18,6 +19,7 @@ class AppRoot {}
   imports: [RouterModule.forRoot([
     // Pages
     { path: 'home', component: HomeComponent },
+    { path: 'guide', component: GuideComponent },
     { path: 'details', component: DetailsComponent },
 
     // Defaults
@@ -33,6 +35,7 @@ class RoutingModule { }
 @NgModule({
   declarations: [
     HomeComponent,
+    GuideComponent,
     DetailsComponent,
     AppRoot
   ],

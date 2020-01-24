@@ -6,4 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./details.css']
 })
 
-export class DetailsComponent {}
+export class DetailsComponent {
+  title = 'Details';
+}
